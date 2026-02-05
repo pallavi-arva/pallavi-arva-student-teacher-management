@@ -1,6 +1,8 @@
 # Student–Teacher–Course Management System
 
 ![Student Management Page](Screenshot1.png)
+![Course Management Page](Screenshot2.png)
+![Course-Teacher Page](Screenshot3.png)
 
 A lightweight, responsive web module built for the Bytelogik technical assessment. This application allows for management of students, teachers, and courses with relational data linking.
 
