@@ -32,11 +32,17 @@ To run this project locally:
   git clone https://github.com/pallavi-arva/pallavi-arva-student-teacher-management.git
 
 2.Setup Backend:
+
   cd backend
+  
   npm install
+  
   npm start
   
 3.Setup Frontend:
+
  cd client
+ 
  npm install
+ 
  npm start
