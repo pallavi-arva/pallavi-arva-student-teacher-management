@@ -1,4 +1,4 @@
-Student-Teacher-Course Management System
+## Student-Teacher-Course Management System
 
 This project is a comprehensive management module designed for Bytelogik. It has evolved from a rapid prototype into a full-scale MERN Stack application to demonstrate both frontend design and backend architectural skills.
 
