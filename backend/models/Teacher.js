@@ -1,2 +1,7 @@
 const mongoose = require('mongoose');
-module.exports = mongoose.model('Teacher', new mongoose.Schema({ name: String }));
+
+const TeacherSchema = new mongoose.Schema({
+  name: { type: String, required: true }
+});
+
+module.exports = mongoose.model('Teacher', TeacherSchema);
