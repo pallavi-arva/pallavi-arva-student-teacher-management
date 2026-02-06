@@ -1,11 +1,6 @@
 ## Student-Teacher-Course Management System
 
-This project is a comprehensive management module designed for Bytelogik. It has evolved from a rapid prototype into a full-scale MERN Stack application to demonstrate both frontend design and backend architectural skills.
-
-Project Evolution
-Phase 1 (Prototype): Initial development using HTML5, Tailwind CSS, and Vanilla JavaScript for quick UI/UX validation.
-
-Phase 2 (Scalable Architecture): Refactored into the MERN Stack (MongoDB, Express, React, Node.js) to support persistent data, relational mapping, and server-side logic.
+This project is a professional management module developed for Bytelogik. It is built using the MERN Stack to demonstrate advanced full-stack capabilities, responsive UI design, and complex relational data modeling.
 
 🛠️ Tech Stack
 Frontend: React.js (Hooks & State Management)
